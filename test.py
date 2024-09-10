@@ -1,0 +1,1 @@
+print(chr(78), chr(79), sep="-", end="-SHIT")
